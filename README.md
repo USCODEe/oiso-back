@@ -1,4 +1,5 @@
 # OISO Backend
+![Uploading 51.png…]()
 
 OISO는 다양한 프로젝트(이벤트, 펀딩 등)를 관리하고, 사용자들이 참여할 수 있도록 지원하는 백엔드 API 서버입니다.
 NestJS로 개발되었으며, Google Cloud Platform(GCP)의 다양한 서비스를 활용하여 안정적이고 확장성 있는 서비스를 제공합니다.
