@@ -1,0 +1,17 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# 최상위 EditorConfig 파일
+root = true
+
+# 모든 파일에 적용
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Windows 환경을 위한 설정
+[*.{bat,cmd}]
+end_of_line = crlf 
